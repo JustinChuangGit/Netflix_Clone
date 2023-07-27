@@ -4,3 +4,4 @@ This project is a recreation of netflix to show aptitude using react and JavaScr
 
 
 <img width="1498" alt="Screen Shot 2023-07-27 at 4 00 51 PM" src="https://github.com/JustinChuangGit/netflixClone/assets/80928888/62914119-7ed5-4fe5-973a-fced87b65b30">
+
